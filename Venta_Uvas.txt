@@ -1,0 +1,2 @@
+el precio total es: $72.2
+El productor tiene una ganancia de: $72.2
