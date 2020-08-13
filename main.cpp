@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 double ingresoP(int n,int m, string c);
-
+//Comentario
 int main() {
     ofstream archivo;
     archivo.open("Venta_Uvas.txt", ios::out);
